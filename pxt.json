@@ -10,7 +10,8 @@
         "README.md",
         "act2.md",
         "act3.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "no_code.md"
     ],
     "testFiles": [],
     "public": true,
