@@ -5,10 +5,7 @@
 # Free Cornelius
 
 ## Step 1
-Free Cornelius for the hay bales
-
-#### ~ tutorialhint
-Some hint.
+Освободи Корнелиуса за тюками сена
 
 
 ```ghost

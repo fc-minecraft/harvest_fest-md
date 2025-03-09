@@ -5,7 +5,7 @@
 # No Code
 
 ## Step 1
-Coding is not currently needed. Exit coding to continue.
+Сейчас не нужно писать код. Можешь закрыть это окно.
 
 ```ghost
 null

@@ -5,10 +5,7 @@
 # Clear the Hay Bales
 
 ## Step 1
-Clear the Hay Bales
-
-#### ~ tutorialhint
-Some hint.
+Очисти тюки сена
 
 
 ```ghost
